@@ -1,11 +1,10 @@
 import React, { Component } from 'react'
+import NavBar from './NavBar'
 
 export default class Restaurants extends Component {
     render() {
         return (
-            <div>
-               <h1>Testing Restaurants</h1> 
-            </div>
+            <NavBar/>
         )
     }
 }
