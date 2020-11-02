@@ -1,3 +1,14 @@
-.App {
-  background: blue;
+:root{
+  --mainGreen:#39b54a ;
+  --mainWhite:#fff;
+
+}
+
+
+
+
+.text-sans{
+  font-family: 'Open Sans', sans-serif;
+  color:var(--mainWhite);
+
 }
